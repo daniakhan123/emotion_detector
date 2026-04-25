@@ -129,4 +129,4 @@ Total parameters: ~3.2M
 ---
 
 ## License
-MIT — free to use, modify, and showcase on your portfolio.
+MIT — free to use
